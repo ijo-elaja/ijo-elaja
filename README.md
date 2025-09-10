@@ -1,6 +1,6 @@
 # Hello, GitHub!
 
-My name is Noah Perry and I am a 18 year old frontend web developer! (I only do fullstack development on my personal projects as of now)
+My name is Elia Perry and I am a 18 year old developer! (I only do fullstack development on my personal projects as of now)
 
 ## About Me
 
